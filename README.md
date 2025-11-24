@@ -3,6 +3,8 @@
 > Aplicação web para sortear amigo secreto desenvolvida no curso de Lógica de Programação da Alura
  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZtdXFieWgyaDdkM2x3bzF1ZzQxdzdrdjh3aHN0NXI2dWxraWJrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UIcmK4pn7rYNLRboG/giphy.gif" width="200" alt="gato com fones dançando">
 
+ Acesse o site: [https://jeanvi12.github.io/sorteio-amigo-secreto/]
+
 ## 📋 Sobre
 
 Sistema interativo para organizar sorteios de amigo secreto com interface moderna e funcionalidades completas de validação.
