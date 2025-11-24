@@ -204,3 +204,56 @@ body {
   background-color: #fff;
   color: #1875e8;
 }
+
+
+@media (max-width: 1024px) {
+
+  .content {
+    width: 90%;
+    height: auto;
+    padding-bottom: 60px;
+  }
+
+  .content__main {
+    padding: 60px;
+    gap: 60px;
+  }
+
+  .section__title {
+    font-size: 64px;
+    margin-bottom: 40px;
+  }
+
+  .form__input {
+    width: 100%;
+  }
+
+  .form__buttons {
+    gap: 16px;
+    flex-wrap: wrap;
+    justify-content: start;
+  }
+
+  .button {
+    width: 180px;
+    font-size: 20px;
+  }
+
+  .friends__container {
+    width: 100%;
+  }
+
+  .section--results {
+    gap: 24px;
+  }
+
+  .page__image {
+    width: 260px;
+    top: 40px;
+    right: 10px;
+  }
+
+  .content__corner-rectangle {
+    width: 60%;
+  }
+}
