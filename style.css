@@ -257,3 +257,71 @@ body {
     width: 60%;
   }
 }
+
+@media (max-width: 600px) {
+
+  .content {
+    width: 95%;
+    padding-bottom: 40px;
+  }
+
+  .content__main {
+    padding: 32px;
+    gap: 32px;
+  }
+
+  .section__title {
+    font-size: 42px;
+    text-align: center;
+  }
+
+  .form__label {
+    font-size: 18px;
+  }
+
+  .form__input {
+    width: 100%;
+    font-size: 18px;
+  }
+
+  .form__buttons {
+    flex-direction: column;
+    gap: 12px;
+    width: 100%;
+  }
+
+  .button {
+    width: 100%;
+    font-size: 18px;
+    height: 48px;
+  }
+
+  .section--results {
+    flex-direction: column;
+    gap: 24px;
+  }
+
+  .friends__container {
+    width: 100%;
+    padding: 16px;
+  }
+
+  .prizeDraw__container {
+    height: auto;
+  }
+
+  .page__image {
+    position: static;
+    width: 180px;
+    margin: 0 auto;
+    display: block;
+  }
+
+  .content__corner-rectangle {
+    display: none;
+  }
+
+  .background__detail {
+    top: 60%;
+  }
+}
